@@ -3,7 +3,7 @@
 *Zuletzt geändert von SnowLeoo am 23.Juni 2020*
 ---
 
- Diese Repository ist dazu gedacht, die alten Tutorials von [Zekro](https://www.youtube.com/user/Zekrommaster110) zu updaten.
+ Dieses Repository ist dazu gedacht, die alten Tutorials von [Zekro](https://www.youtube.com/user/Zekrommaster110) zu updaten.
  Diese sind unterteilt in den jeweiligen Wrapper, Folge und den dazugehörigen neue Code. 
 
  ```
