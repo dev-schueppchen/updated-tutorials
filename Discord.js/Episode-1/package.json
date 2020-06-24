@@ -1,0 +1,27 @@
+{
+  "name": "tutorialjsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-schueppchen/updated-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-schueppchen/updated-tutorials/issues"
+  },
+  "homepage": "https://github.com/dev-schueppchen/updated-tutorials#readme",
+  "devDependencies": {
+    "@aero/eslint-config": "^1.0.1",
+    "eslint": "^7.3.1"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
