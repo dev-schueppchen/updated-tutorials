@@ -9,7 +9,7 @@ client.on('ready', () => {
 	console.log(`Logged in as ${client.user.username}...`);
 });
 
-// Stores the command name: function Name which is allows to drop long if/else statements
+// Stores the command name: function name which allows us to drop long if/else statements
 const cmdmap = {
 	say: cmdSay,
 	test: cmdTest
