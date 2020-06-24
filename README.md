@@ -1,5 +1,5 @@
 # Updated Tutorials
-> Last modified by 7h3730B on 24.Juni 2020 and originally created by Snowland 
+> Last modified by 7h3730B on 24.June 2020 and originally created by Snowland 
 ---
 
 This Repository's use is to hold the updated code from [Zekro's](https://www.youtube.com/user/Zekrommaster110) Tutorials.  
