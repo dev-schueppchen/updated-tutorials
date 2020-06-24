@@ -9,7 +9,7 @@ The folders are organized like this:
 |
 |__ TheWrappersName (e.g. Discord.py)
     |
-    |__ TheEpisode (e.g. Episode 1)
+    |__ TheEpisode (e.g. Episode-1)
         |
         |__ TheCode (e.g. example.py)
 ```
