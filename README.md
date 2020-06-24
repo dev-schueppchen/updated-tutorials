@@ -2,7 +2,7 @@
 > Last modified by 7h3730B and originally created by Snowland on 24.Juni 2020
 ---
 
-This Repositorie's use is to update the code from [Zekro's](https://www.youtube.com/user/Zekrommaster110) Tutorials.  
+This Repository's use is to hold the updated code from [Zekro's](https://www.youtube.com/user/Zekrommaster110) Tutorials.  
 The folder structure is the following:
 
 ```
