@@ -3,7 +3,7 @@
 ---
 
 This Repository's use is to hold the updated code from [Zekro's](https://www.youtube.com/user/Zekrommaster110) Tutorials.  
-The folder structure is the following:
+The folders are organized like this:
 
 ```
 |
