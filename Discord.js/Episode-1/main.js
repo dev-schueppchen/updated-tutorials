@@ -10,15 +10,15 @@ client.on('ready', () => {
 });
 
 const cmdmap = {
-	say: CmdSay,
-	test: CmdTest
+	say: cmdSay,
+	test: cmdTest
 };
 
-function CmdSay(msg, args) {
+function cmdSay(msg, args) {
 	msg.channel.send(args.join(' '));
 }
 
-function CmdTest(msg, args) {
+function cmdTest(msg, args) {
 	console.log('test');
 }
 
