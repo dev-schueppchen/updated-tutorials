@@ -4,10 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js",
-    "start": "node main.js",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "test": "node main.js debug",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",

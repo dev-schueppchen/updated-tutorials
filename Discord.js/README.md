@@ -13,7 +13,7 @@
 Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
 
 #### 1. Create the Project and install all Dependencies
-Then open your terminal in the folder you want to store the bot in.
+Open your terminal in the folder you want to store the bot in.
 ``` BASH
 # Check if node is installed
 node --version
