@@ -25,7 +25,7 @@ pip install discord
 Now get your token from [here](https://discord.com/developers/applications/) and save it in your Clipboard. We will need it later for the Bot.
 
 ## Episodes
-### [1.](https://www.youtube.com/watch?v=GL57VWBV8g0
+### [1.](https://www.youtube.com/watch?v=GL57VWBV8g0)
 You will learn how to use your token to login to your bot, make some fun commands and learn how to set your prefix.
 
 ## [2.](https://www.youtube.com/watch?v=KN9nxsvf7vY)
