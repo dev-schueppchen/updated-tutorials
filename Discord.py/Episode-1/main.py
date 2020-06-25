@@ -18,4 +18,4 @@ async def ping(ctx):
 
 
 # Enter here the Token which you have copied before
-bot.run("NzAyMTcwMzkzMTU0Mjg5NzY1.XvSmAA.B2a1LtlXJI813dRglq7_mTWw15Q")
+bot.run("Your Token")
