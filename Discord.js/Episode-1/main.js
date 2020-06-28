@@ -24,8 +24,8 @@ function cmdTest(msg, args) {
 }
 
 // Gets called when the bot receives a message.
-// The msg object is given to us by the discord.js libary.
-// When you want to know what you can do with the msg object
+// The msg Object is given to us by the discord.js libary.
+// When you want to know what you can do with the msg Object
 // look in the docs here: https://discord.js.org/#/docs/main/stable/class/Message
 client.on('message', (msg) => {
 	// if the author of the message is a bot
