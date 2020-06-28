@@ -1,23 +1,24 @@
 # [Discord.js](https://github.com/discordjs/discord.js) updated  
----
+
 > Playlist: https://www.youtube.com/playlist?list=PLthqW7GiLEwIu-ZaXgw9_oT2WzzmF8TT2
 
-* [Preparation](#Preparation)
+* [Prerequisites](#Prerequisites)
 * [Episodes](#Episodes)
   * [1](#1)
   * [2](#2)
   * [3](#3)
+
 ---
 
-## Preparation
-Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+## Prerequisites
+Make sure you have installed the latest version of [Node.js](https://nodejs.org/en/download/).
 
-#### 1. Create the Project and install all Dependencies
+#### 1. Create the project and install all dependencies
 Open your terminal in the folder you want to store the bot in.
 ``` BASH
-# Check if node is installed
+# Check if Node is installed
 node --version
-# Create a node project and type in whatever you want but make sure your main file is main.js
+# Create a Node project and type in whatever you want but make sure your main file is main.js
 npm init
 # Create main.js file
 touch main.js
@@ -44,12 +45,15 @@ if you have everything done right your folder should look like this:
 |__ package-lock.json
 |__ package.json
 ```
-## Episodes
-### [1.](https://www.youtube.com/watch?v=ciHcXPHAtko)
-You will learn how to use your token to login to your bot, and respond to messages as well as parse arguments.
 
-## [2.](https://www.youtube.com/watch?v=9AdwfLA4Dmc)
+---
+
+## Episodes
+#### [1.](https://www.youtube.com/watch?v=ciHcXPHAtko)
+You will learn how to use your token to login to your bot and respond to messages as well as parse arguments.
+
+#### [2.](https://www.youtube.com/watch?v=9AdwfLA4Dmc)
 TODO
 
-## [3.](https://www.youtube.com/watch?v=JeBaxlTPqDM)
+#### [3.](https://www.youtube.com/watch?v=JeBaxlTPqDM)
 TODO
