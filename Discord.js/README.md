@@ -2,7 +2,7 @@
 
 > Playlist: https://www.youtube.com/playlist?list=PLthqW7GiLEwIu-ZaXgw9_oT2WzzmF8TT2
 
-* [Prerequisites](#Preparation)
+* [Prerequisites](#Prerequisites)
 * [Episodes](#Episodes)
   * [1](#1)
   * [2](#2)
@@ -18,7 +18,7 @@ Open your terminal in the folder you want to store the bot in.
 ``` BASH
 # Check if Node is installed
 node --version
-# Create a node project and type in whatever you want but make sure your main file is main.js
+# Create a Node project and type in whatever you want but make sure your main file is main.js
 npm init
 # Create main.js file
 touch main.js
